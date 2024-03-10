@@ -7,6 +7,9 @@
 
 DEVICE_PATH := device/qualcomm/kona
 
+TW_MAX_BRIGHTNESS := 255
+TW_DEFAULT_BRIGHTNESS := 155
+
 # For building with minimal manifest
 ALLOW_MISSING_DEPENDENCIES := true
 
